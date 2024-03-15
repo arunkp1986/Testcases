@@ -1,5 +1,6 @@
 # Testcases
 
+tar -xvzf PA1.tgz
 Marks
 
 Task-1, 10 test cases, each with three marks
