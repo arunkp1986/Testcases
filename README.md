@@ -1,5 +1,7 @@
 # Testcases
 
+PA1 Testcases
+
 tar -xvzf PA1.tgz
 
 
@@ -19,7 +21,7 @@ Testcases are present in "PA2/gemOS/user/testcases"
 
 copy your "mprotect.c" to  "PA2/gemOS/mprotect.c" 
 
-copy each testcase to "PA2/gemOS/user/init.c" for running testcase.
+copy each test case to "PA2/gemOS/user/init.c" for running a test case.
 
-Compare your output with expected output available in each test case folder
+Compare your output with the expected output available in each test case folder.
 
