@@ -25,3 +25,7 @@ copy each test case to "PA2/gemOS/user/init.c" for running a test case.
 
 Compare your output with the expected output available in each test case folder.
 
+Task-1 : 5 test cases, 4 marks each
+Task-2 : 8 test cases, 5 marks each
+Task-3 : 8 test cases, 5 marks each
+
